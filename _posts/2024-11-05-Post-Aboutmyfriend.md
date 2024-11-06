@@ -1,12 +1,12 @@
 ---
 layout: posts
-title: Hello
+title: سلام
 ---
 
 
-- hello
-- We wrote some code
-- We built our website
-- We pushed
+- سلام از دنیای برنامه نویسی 
+- تکلیف امروز ساختن سایت هست
+- منم برای همین دست به کیبورد شدم 
+- امیدوارم به خوبی به سرانجام برسه
 
 # this is a header

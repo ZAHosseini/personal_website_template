@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About My Field"
-    url: /About My Field/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
+    url: /about My Field/
+  - title: "Classes"
+    url: /classes/
+  - title: "Goals"
+    url: /goals/
   - title: "Links"
     url: /links/
   - title: "Hobbies"

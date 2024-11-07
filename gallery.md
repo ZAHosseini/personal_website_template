@@ -15,8 +15,8 @@ gallery:
     image_path: /assets/images/g.jfif
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/l.gfif
-    image_path: /assets/images/l.gfif
+  - url: /assets/images/t.gfif
+    image_path: /assets/images/t.gfif
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
   - url: /assets/images/n.jfif

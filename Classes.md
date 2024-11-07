@@ -18,22 +18,22 @@ comments: false
 |2024|Fall  | **<a href="">physics 1</a>** |
 
 
-|           | **Past**                       |
+|           | **future**                       |
 |----|------|--------------------------------|
-|2023|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2025|winter| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
-|2023|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
+|2025|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
 |----|------|--------------------------------|
-|2023|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
+|2025|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
 |----|------|--------------------------------|
-|2023|Fall  | **<a href="/ds97/">Data Structures</a>**            |
+|2025|Fall  | **<a href="/ds97/">Data Structures</a>**            |
 |----|------|--------------------------------|
-|2023|Fall  | **Advanced Programming - C#** |
+|2025|Fall  | **Advanced Programming - C#** |
 |----|------|--------------------------------------------|
-|2023|Fall  | **Natural Language Processing (Graduate)** |
+|2025|Fall  | **Natural Language Processing (Graduate)** |
 |----|------|--------------------------------------------|
-|2023|Spring| **Advanced Programming - C#**             |
+|2025|winter| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2023|Spring| **Natural Language Processing (Undergraduate)** |
+|2025|winter| **Natural Language Processing (Undergraduate)** |
 
 * wish luck

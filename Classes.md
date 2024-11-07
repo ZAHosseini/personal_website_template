@@ -13,9 +13,9 @@ comments: false
 |----|------|--------------------------------|
 |2024|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2024|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2024|Fall  | **<a href="/ds98/">math 1</a>** |
 |----|------|--------------------------------|
-|2024|Fall  | **<a href="">Computer Lab</a>** |
+|2024|Fall  | **<a href="">physics 1</a>** |
 
 
 |           | **Past**                       |

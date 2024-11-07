@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-permalink: /About My Field/
-title: programming
-tags: [programming, About My Feild]
-modified: 4-14-2019
+permalink: /me/
+title: Me
+tags: [programming, me]
+modified: 4-14-2024
 comments: false
 ---
 

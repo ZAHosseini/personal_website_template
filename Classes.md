@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses/
-title: Courses
+permalink: /classes/
+title: Classes
 tags: [class, courses]
 modified: 9-14-2024
 comments: false

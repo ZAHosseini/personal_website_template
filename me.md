@@ -19,14 +19,14 @@ A broad field that sits in between the hardware of electrical engineering and th
 ### python
 ### C++
 
-- mored 1
-- mored 2
 
 you can visit here to get more information [Here](https://www.mtu.edu/ece/undergraduate/computer/what-is/).
 
 
 ## Tehran
 The city that I study in
+
+* wish luck
 
 ![Painting](imajes.jfif)
 

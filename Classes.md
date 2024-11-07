@@ -35,3 +35,5 @@ comments: false
 |2023|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
 |2023|Spring| **Natural Language Processing (Undergraduate)** |
+
+* wish luck

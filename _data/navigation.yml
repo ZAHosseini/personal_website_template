@@ -2,8 +2,8 @@
 main:
   - title: "Me"
     url: /me/
-  - title: "Classes"
-    url: /classes/
+  # - title: "Classes"
+  #   url: /classes/
   - title: "Goals"
     url: /goals/
   - title: "Links"

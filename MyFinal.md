@@ -11,4 +11,4 @@ comments: true
 
 ![اسکرین صفحه من](/assets/images/Screenshot 2025-01-05 080724.png)
 
-- [sample item 1](fccourse.liara.run)
+- [sample item 1](https://fccourse.liara.run/)

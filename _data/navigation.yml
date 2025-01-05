@@ -4,8 +4,8 @@ main:
     url: /me/
   # - title: "Classes"
   #   url: /classes/
-  - title: "Goals"
-    url: /goals/
+  - title: "MyFinal"
+    url: /MyFinal/
   - title: "Links"
     url: /links/
   - title: "Hobbies"

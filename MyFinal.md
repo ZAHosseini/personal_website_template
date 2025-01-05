@@ -7,7 +7,7 @@ tags: [exam]
 modified: 4-10-2025
 comments: true
 ---
-# Exam day shots
+
 
 ![اسکرین صفحه من](/assets/images/Screenshot 2025-01-05 080724.png)
 
